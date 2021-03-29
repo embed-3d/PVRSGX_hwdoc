@@ -27,7 +27,7 @@ ply==3.9
 pyasn1==0.1.9
 pycollada==0.4
 pycrypto==2.6.1
-Pygments==2.2.0
+Pygments==2.7.4
 pygobject==3.22.0
 pyOpenSSL==16.2.0
 pyparsing==2.3.0
